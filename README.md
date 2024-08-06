@@ -1,4 +1,3 @@
-```markdown
 # README
 
 ## Highlights of WikiFinancepedia
@@ -44,4 +43,3 @@
 ## Conclusion
 
 WikiFinancepedia stands out as a valuable resource for anyone looking to deepen their understanding of financial concepts and improve their financial management skills. Whether you are a novice looking to learn the basics or an experienced professional seeking advanced insights, WikiFinancepedia provides the tools and knowledge necessary to achieve your financial goals. For more information and to explore the vast array of resources, visit [WikiFinancepedia](https://wikifinancepedia.com/).
-```
